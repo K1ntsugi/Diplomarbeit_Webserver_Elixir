@@ -13,3 +13,5 @@
 [Elixir in Action (second edition)](https://learning.oreilly.com/library/view/elixir-in-action/9781617295027/)
 
 ## Books Hardcover
+
+[Funktionale Programmierung, Pepper Peter & Hofstedt Petra](https://www.amazon.de/Funktionale-Programmierung-Programmiertechnik-Peter-Pepper/dp/354020959X)
