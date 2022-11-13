@@ -10,4 +10,6 @@
 
 ## Books Online
 
+[Elixir in Action (second edition)](https://learning.oreilly.com/library/view/elixir-in-action/9781617295027/)
+
 ## Books Hardcover
