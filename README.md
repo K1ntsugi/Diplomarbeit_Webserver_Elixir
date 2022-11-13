@@ -12,7 +12,7 @@
 
 -- Tier 1: Definitly include/use --
 
--[Elixir in Action (second edition)](https://learning.oreilly.com/library/view/elixir-in-action/9781617295027/)
+- [Elixir in Action (second edition)](https://learning.oreilly.com/library/view/elixir-in-action/9781617295027/)
 
 -- Tier 2: Explore --
 
