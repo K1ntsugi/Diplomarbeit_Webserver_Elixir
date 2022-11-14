@@ -9,10 +9,11 @@
 ### Text
 
 - [Elixir School](https://elixirschool.com/en)
+- [Serving Plug - Building an Elixir HTTP server from scratch](https://blog.appsignal.com/2019/01/22/serving-plug-building-an-elixir-http-server.html)
 
 ### Video
 
-- [Create An Elixir HTTP Server with PlugCowboy (Beginner Elixir Tutorial)](https://www.youtube.com/watch?v=_TjXYGXG2z8)
+- [Create An Elixir HTTP Server with PlugCowboy (Beginner Elixir Tutorial)](https://www.youtube.com/watch?v=_TjXYGXG2z8) [x]
 - [How to write a Web Server in Elixir (Code, Please!)](https://www.youtube.com/watch?v=a3fhMZ20dT0&t=22s)
 - [1 - Elixir Intro - Plangora](https://www.youtube.com/watch?v=4W7AxdT3oe4&t=57s)
 
