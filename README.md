@@ -10,6 +10,7 @@
 
 - [Elixir School](https://elixirschool.com/en)
 - [Serving Plug - Building an Elixir HTTP server from scratch](https://blog.appsignal.com/2019/01/22/serving-plug-building-an-elixir-http-server.html)
+- [ElixirCasts](https://elixircasts.io/)
 
 ### Video
 
