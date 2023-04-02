@@ -1,4 +1,4 @@
-# Diplomarbeit_Webserver_Elixir
+# Learning Elixir
 
 ## Official Elixir Documentation
 
@@ -28,7 +28,6 @@
 
 - [Programmer Passport: Elixir](https://learning.oreilly.com/library/view/programmer-passport-elixir/9781680509649/)
 - [Learn Functional Programming with Elixir](https://learning.oreilly.com/library/view/learn-functional-programming/9781680505757/)
-- [Metaprogramming Elixir](https://learning.oreilly.com/library/view/metaprogramming-elixir/9781680500622/)
 - [Introducing Elixir, 2nd Edition](https://learning.oreilly.com/library/view/introducing-elixir-2nd/9781491956847/)
 - [Learning Functional Programmin](https://learning.oreilly.com/library/view/learning-functional-programming/9781098111748/)
 - [Functional and Concurrent Programming: Core Concepts and Features](https://learning.oreilly.com/library/view/functional-and-concurrent/9780137466696/)
