@@ -54,5 +54,16 @@ defmodule Types do
     some_list = [1 | [2, 3, 4]]
     hd(some_list) |> puts()
     tl(some_list) |> IO.inspect()
+
+    a_list = [9, :value, true]
+    new_list = [:new_element, a_list]
+
+    IO.inspect(new_list, label: "new_list: ")
+  end
+
+  defmodule Immutabiliry do
+    # manipulating tuples
+    a_tuple = {a, b, c}
+    new_tuple = put_elem(a_tuple, 1, b2)
   end
 end
