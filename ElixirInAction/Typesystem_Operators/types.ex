@@ -61,7 +61,7 @@ defmodule Types do
     IO.inspect(new_list, label: "new_list: ")
   end
 
-  defmodule Immutabiliry do
+  defmodule Immutability do
     # manipulating tuples
     a_tuple = {a, b, c}
     new_tuple = put_elem(a_tuple, 1, b2)
